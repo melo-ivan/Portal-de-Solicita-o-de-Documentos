@@ -48,10 +48,8 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 ## 📸 Captura de Tela
 
-> Suba esta imagem no repositório em uma pasta `img/` e use o caminho abaixo:
-
 ```markdown
-![Tela inicial do sistema](img/portal-solicitacao-preview.png)
+![Tela inicial do sistema]([img/portal-solicitacao-preview.png](https://github.com/melo-ivan/Portal-de-Solicita-o-de-Documentos/blob/main/Portal%20de%20Solicita%C3%A7%C3%A3o.jpg))
 # 1. Clone o repositório
 git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
 
