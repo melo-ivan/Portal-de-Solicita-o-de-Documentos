@@ -76,8 +76,6 @@ cd Portal-de-Solicitacao-de-Documentos
 
 ## 📁 Como Rodar Localmente
 
-## 📁 Como Rodar Localmente
-
 ```bash
 # 1. Clone o repositório
 git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
