@@ -42,7 +42,8 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 ## 🔗 Repositório GitHub
 
-👉 [https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos](https://github.com/melo-ivan/Portal-de-Solicita-o-de-Documentos)
+👉 [https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos](https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos)
+
 
 ---
 
@@ -64,8 +65,6 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 ---
 
-## 📁 Como Rodar Localmente
-
 
 # 1. Clone o repositório
 git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
@@ -74,9 +73,27 @@ git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
 cd Portal-de-Solicitacao-de-Documentos
 
 # 3. Abra o arquivo index.html no navegador
-📄 Licença
-Este projeto está licenciado sob os termos da Licença MIT.
 
-🙋‍♂️ Autor
-Desenvolvido por Ivan Melo
-💼 Conecte-se no LinkedIn (www.linkedin.com/in/melo-ivan)
+## 📁 Como Rodar Localmente
+
+## 📁 Como Rodar Localmente
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
+
+# 2. Acesse o diretório
+cd Portal-de-Solicitacao-de-Documentos
+
+# 3. Abra o arquivo index.html no navegador
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da **Licença MIT**.
+
+---
+
+## 🙋‍♂️ Autor
+
+Desenvolvido por [**Ivan Melo**](https://github.com/melo-ivan)  
+💼 Conecte-se no [LinkedIn](https://www.linkedin.com/in/melo-ivan)
