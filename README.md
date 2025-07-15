@@ -76,6 +76,7 @@ cd Portal-de-Solicitacao-de-Documentos
 # 3. Abra o arquivo index.html no navegador
 📄 Licença
 Este projeto está licenciado sob os termos da Licença MIT.
+
 🙋‍♂️ Autor
 Desenvolvido por Ivan Melo
 💼 Conecte-se no LinkedIn (www.linkedin.com/in/melo-ivan)
