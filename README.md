@@ -8,29 +8,29 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 ## 💡 Objetivos do Projeto
 
-- ✅ Eliminar solicitações manuais e descentralizadas
-- ✅ Padronizar o envio de dados e documentos
-- ✅ Facilitar o atendimento interno de forma automatizada
-- ✅ Servir como **prova de conceito** para integração com sistemas reais
+- ✅ Eliminar solicitações manuais e descentralizadas  
+- ✅ Padronizar o envio de dados e documentos  
+- ✅ Facilitar o atendimento interno de forma automatizada  
+- ✅ Servir como **prova de conceito** para integração com sistemas reais  
 
 ---
 
 ## ⚙️ Funcionalidades Atuais
 
-- Formulário com validação de campos obrigatórios
-- Campos pessoais, profissionais e de descrição da solicitação
-- Upload de documentos (PDF, DOC, JPG, PNG)
-- Interface amigável, acessível e responsiva
-- Design profissional pronto para uso real
+- Formulário com validação de campos obrigatórios  
+- Campos pessoais, profissionais e de descrição da solicitação  
+- Upload de documentos (PDF, DOC, JPG, PNG)  
+- Interface amigável, acessível e responsiva  
+- Design profissional pronto para uso real  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- `HTML5`
-- `CSS3`
-- `JavaScript`
-- `Hospedagem em Netlify`
+- `HTML5`  
+- `CSS3`  
+- `JavaScript`  
+- `Hospedagem em Netlify`  
 
 ---
 
@@ -44,28 +44,14 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 👉 [https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos](https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos)
 
-
 ---
 
 ## 📸 Captura de Tela
 
-![Tela inicial do sistema](https://chat.openai.com/mnt/data/portal-solicitacao-preview.png)
+> Suba esta imagem no repositório em uma pasta `img/` e use o caminho abaixo:
 
----
-
-## 🚀 Próximas Evoluções Sugeridas
-
-| Feature               | Descrição |
-|-----------------------|-----------|
-| 🔐 Login de Usuário   | Sistema de autenticação com login e senha |
-| 🗃️ Banco de Dados     | Armazenamento de solicitações (Firebase, Supabase, PostgreSQL) |
-| 📧 Notificações       | E-mails de confirmação e atualização de status |
-| 📊 Dashboard RH/Admin | Visualização, aprovação e envio de documentos |
-| 🛡️ Segurança          | Validações reforçadas, autenticação, controle de arquivos |
-
----
-
-
+```markdown
+![Tela inicial do sistema](img/portal-solicitacao-preview.png)
 # 1. Clone o repositório
 git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
 
@@ -73,25 +59,3 @@ git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
 cd Portal-de-Solicitacao-de-Documentos
 
 # 3. Abra o arquivo index.html no navegador
-
-## 📁 Como Rodar Localmente
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
-
-# 2. Acesse o diretório
-cd Portal-de-Solicitacao-de-Documentos
-
-# 3. Abra o arquivo index.html no navegador
-
-## 📄 Licença
-
-Este projeto está licenciado sob os termos da **Licença MIT**.
-
----
-
-## 🙋‍♂️ Autor
-
-Desenvolvido por [**Ivan Melo**](https://github.com/melo-ivan)  
-💼 Conecte-se no [LinkedIn](https://www.linkedin.com/in/melo-ivan)
