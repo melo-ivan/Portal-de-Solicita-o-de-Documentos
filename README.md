@@ -42,7 +42,7 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 ## 🔗 Repositório GitHub
 
-👉 [https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos](https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos)
+👉 [https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos](https://github.com/melo-ivan/Portal-de-Solicita-o-de-Documentos)
 
 ---
 
