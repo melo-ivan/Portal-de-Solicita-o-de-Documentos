@@ -48,8 +48,25 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 ## 📸 Captura de Tela
 
-```markdown
-![Tela inicial do sistema]([img/portal-solicitacao-preview.png](https://github.com/melo-ivan/Portal-de-Solicita-o-de-Documentos/blob/main/Portal%20de%20Solicita%C3%A7%C3%A3o.jpg))
+![Tela inicial do sistema](https://github.com/melo-ivan/Portal-de-Solicita-o-de-Documentos/blob/main/Portal%20de%20Solicita%C3%A7%C3%A3o.jpg)
+
+---
+
+## 🚀 Próximas Evoluções Sugeridas
+
+| Feature               | Descrição |
+|-----------------------|-----------|
+| 🔐 Login de Usuário   | Sistema de autenticação com login e senha |
+| 🗃️ Banco de Dados     | Armazenamento de solicitações (Firebase, Supabase, PostgreSQL) |
+| 📧 Notificações       | E-mails de confirmação e atualização de status |
+| 📊 Dashboard RH/Admin | Visualização, aprovação e envio de documentos |
+| 🛡️ Segurança          | Validações reforçadas, autenticação, controle de arquivos |
+
+---
+
+## 📁 Como Rodar Localmente
+
+```bash
 # 1. Clone o repositório
 git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
 
