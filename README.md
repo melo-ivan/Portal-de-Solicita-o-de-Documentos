@@ -8,10 +8,10 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 ## 💡 Objetivos do Projeto
 
-- ✅ Eliminar solicitações manuais e descentralizadas  
-- ✅ Padronizar o envio de dados e documentos  
-- ✅ Facilitar o atendimento interno de forma automatizada  
-- ✅ Servir como **prova de conceito** para integração com sistemas reais  
+- Eliminar solicitações manuais e descentralizadas  
+- Padronizar o envio de dados e documentos  
+- Facilitar o atendimento interno de forma automatizada  
+- Servir como prova de conceito para integração com sistemas reais  
 
 ---
 
@@ -42,13 +42,13 @@ Ideal para ambientes **educacionais**, **corporativos** ou qualquer instituiçã
 
 ## 🔗 Repositório GitHub
 
-👉 [https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos](https://github.com/melo-ivan/Portal-de-Solicita-o-de-Documentos/tree/main)
+👉 [https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos](https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos)
 
 ---
 
 ## 📸 Captura de Tela
 
-![Tela inicial do sistema](https://github.com/melo-ivan/Portal-de-Solicita-o-de-Documentos/blob/main/Portal%20de%20Solicita%C3%A7%C3%A3o.jpg)
+![Tela inicial do sistema](https://github.com/melo-ivan/Portal-de-Solicita-o-de-Documentos/raw/main/Portal%20de%20Solicita%C3%A7%C3%A3o.jpg)
 
 ---
 
@@ -74,3 +74,5 @@ git clone https://github.com/melo-ivan/Portal-de-Solicitacao-de-Documentos.git
 cd Portal-de-Solicitacao-de-Documentos
 
 # 3. Abra o arquivo index.html no navegador
+
+---
